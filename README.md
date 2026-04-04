@@ -1,16 +1,44 @@
-## Hi there 👋
+# Taha Shams
 
-<!--
-**TahaShams15/tahashams15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Karachi, Pakistan  
+📧 tahashams.156@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a CS student who enjoys building things — whether it's a backend API,
+a database-driven app, or a clean frontend. I work with Python, C++, and
+web technologies, and I'm always looking for projects that actually solve
+something useful.
+
+Still learning. Always building.
+
+---
+
+## Skills
+
+**Languages:** Python, C++, JavaScript  
+**Web:** HTML, CSS, Flask  
+**Database:** SQL, SQLite  
+
+---
+
+## Projects
+
+**[Library Management System](https://github.com/tahashams15/library-management-system)**  
+A simple CRUD app to manage books using Python and SQLite.
+
+**[To-Do App](https://github.com/tahashams15/todo-app-flask)**  
+A lightweight web app built with Flask — add and delete tasks from the browser.
+
+**[Student Grade Calculator](https://github.com/tahashams15/student-grade-calculator)**  
+Takes student marks as input and calculates grade and percentage.
+
+**[Portfolio](https://github.com/tahashams15/portfolio)**  
+My personal portfolio page built with HTML and CSS.
+
+**[Number Guessing Game](![Stats](https://streak-stats.demolab.com?user=tahashams15&theme=tokyonight&hide_border=true))**  
+A small C++ game where you guess the computer's number.
+
+---
+
+📧 tahashams.156@gmail.com
