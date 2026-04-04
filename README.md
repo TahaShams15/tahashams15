@@ -27,7 +27,7 @@ Still learning. Always building.
 **[Library Management System](https://github.com/tahashams15/library-management-system)**  
 A simple CRUD app to manage books using Python and SQLite.
 
-**[To-Do App](https://github.com/tahashams15/todo-app-flask)**  
+**[Snake](https://github.com/tahashams15/todo-app-flask)**  
 A lightweight web app built with Flask — add and delete tasks from the browser.
 
 **[Student Grade Calculator](https://github.com/tahashams15/student-grade-calculator)**  
