@@ -5,7 +5,7 @@ Software Developer | Karachi, Pakistan
 
 ---
 
-I'm a CS student who enjoys building things — whether it's a backend API,
+I'm a Software Engineering student who enjoys building things — whether it's a backend API,
 a database-driven app, or a clean frontend. I work with Python, C++, and
 web technologies, and I'm always looking for projects that actually solve
 something useful.
